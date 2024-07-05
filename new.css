@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    background-color: #fee2b3;
+    font-family: "Sedan SC", serif;;
+}
+header{
+    text-align: center
+}
+.banner{
+    background-image: url(https://img.freepik.com/premium-photo/food-cinematic-4k-background-wallpaper_839182-926.jpg);
+     height: 700px;
+    width: 100%;
+    background-size: cover;
+}
+img{
+    height: 200px;
+    width: 300px;
+    padding: 20px;
+    
+}
+table h4{
+    text-align: center;
+    color: rgb(65, 48, 48);
+    margin-right: 0px;
+}
+table h2{
+    text-align: center;
+}
+table h5{
+    text-align:center ;
+    color: #ff5200;
+    margin-right: 0px;
+    cursor: pointer;
+}
+table p{
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 17px;
+    cursor: pointer;
+}
+table p:hover{
+    background-color: #fff;
+    border-radius: 20px;
+}
+table {
+    margin: 20px 20px 20px 20px;
+    margin-left: 50px;
+}
+.column-1{
+    width: 340px;
+ 
+}
+table img:hover{
+    border-radius: 80px;
+}
+footer{
+    text-align: center;
+    color: rgb(65, 53, 53);
+    background-color:#e6865a;
+    height: 200px;
+    padding: 10px 10px 10px 10px;
+    
+}
+
+#foot{
+    background-color: #e6865a;
+    margin-bottom: 10px;
+}
+a{
+    color: rgb(65, 53, 53);
+}
+a:hover{
+    color:#fee2b3;
+}
+#contact{
+    text-align: center;
+    color:black;
+    margin-top: 30px;
+}
+.contact{
+    padding: 50px;
+   
+}
+
+input{
+    background-color: #fff;
+    height: 30px;
+    width: 300px;
+    margin-left: 470px;
+    margin-bottom: 10px;
+    border: 1px;
+    cursor: pointer;
+    
+}
+input:hover{
+    border: 1px inset;
+    color: rgb(65, 53, 53);
+}
+button{
+    background-color: #ff5200;
+    border: 10px ;
+    height: 30px;
+    width: 60px;
+    margin-left: 590px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+button:hover{
+    border: 1px inset;
+    color: rgb(65, 53, 53);
+}
